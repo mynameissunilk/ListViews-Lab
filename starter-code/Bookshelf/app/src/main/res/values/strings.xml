@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Bookshelf</string>
+    <string name="mTitle">Title: </string>
+    <string name="mAuthor">\nAuthor: </string>
+    <string name="printout">Title: %1$s \nAuthor: %2$s</string>
 </resources>
